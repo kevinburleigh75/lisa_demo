@@ -1,0 +1,5 @@
+Roses are red,
+violets are blue,
+I can do git
+and now so can you.
+
