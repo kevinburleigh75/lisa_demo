@@ -1,0 +1,4 @@
+this is some text
+outside file 1
+
+I added some more text here.
