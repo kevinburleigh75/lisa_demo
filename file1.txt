@@ -1,4 +1,6 @@
-this is some text
-outside file 1
 
-I added some more text here.
+I added some more garbage here.
+
+Put some more text here.
+
+Even more stuff here.
